@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "attributes": {
+
+  },
+  "recipes": {
+    "quick_start": ""
+  },
+  "license": "All rights reserved",
+  "maintainer": "iTech Solutions T\u00dc",
+  "recommendations": {
+
+  },
+  "dependencies": {
+
+  },
+  "maintainer_email": "erkki@itech.ee",
+  "suggestions": {
+
+  },
+  "description": "Installs\/Configures quick_start",
+  "conflicting": {
+
+  },
+  "providing": {
+    "quick_start": [
+
+    ]
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES: \n\n= USAGE:\n\n",
+  "name": "quick_start",
+  "replacing": {
+
+  },
+  "platforms": {
+
+  }
+}
